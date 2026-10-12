@@ -1,6 +1,6 @@
 # 邱璿晉個人網頁
 
-![image](https://github.com/0153B003/0153B003/blob/main/%E5%AF%A6%E9%A9%97%E7%85%A7.jpg)
+![image](https://github.com/0153B003/0153B003/blob/main/S__28499978.jpg)
 
 ## 1. 基本資料
 
