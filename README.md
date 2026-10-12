@@ -1,8 +1,6 @@
 # 邱璿晉個人網頁
 
-<p align="center">
-  <img src="image/profile.jpg" alt="個人照片" width="300px" style="border-radius: 50%;">
-</p>
+![image](https://github.com/0153B003/0153B003/blob/main/%E5%AF%A6%E9%A9%97%E7%85%A7.jpg)
 
 ## 1. 基本資料
 
